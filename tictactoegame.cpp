@@ -88,7 +88,7 @@ bool gameover() {
 
 	//Checking the if game is a draw
 	draw = true;
-	return false;
+	return true;
 }
 
 int main()
